@@ -1,15 +1,23 @@
 <h1 align="center">Hi 👋, I'm Y Cuu Nie</h1>
 <h3 align="center">A passionate student from VietNam, aspiring to become a Game Developer.</h3>
 
-(img align="right" alt="Coding" width="400" src="![mario gif](https://github.com/YCUU-NIE/YCUU-NIE/assets/113151683/65b7e155-4374-44a7-a01b-ff45bf40f016")
+<img hight="300" width="500" alt="GIF" align="right" src="https://github.com/YCUU-NIE/YCUU-NIE/assets/113151683/65b7e155-4374-44a7-a01b-ff45bf40f016.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ycuu-nie&label=Profile%20views&color=0e75b6&style=flat" alt="ycuu-nie" /> </p>
 
-- 🌱 I’m currently learning at **Montcalm Secondary School in London, Ontario**
 
-- 💬 Ask me about **my stories**
 
-- ⚡ Fun fact **I am shy guy**
+
+
+
+
+
+<h3 align="left">Don't read my story:</h3>
+
+👦 I'm just a boy who loves school and dreams big. 🌍 My family and I lived in Thailand for almost five years, then we moved to Canada in 2020. 🏫 My first school was in Calgary, but now I live in London, Ontario. In Vietnam, support for my education was scarce, and I didn't attend school for most of my life. 📚
+
+Now, in Canada, I can finally go to school and proudly read and understand English. 🇨🇦 My journey reflects determination and a thirst for knowledge. These days, I'm learning coding and chasing my dream of becoming a Game Developer 🎮. The world of coding and game development has opened new horizons, and I can't wait to see where this path leads. 🚀
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
