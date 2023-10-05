@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Y Cuu Nie</h1>
 <h3 align="center">A passionate student from VietNam, aspiring to become a Game Developer.</h3>
 
-<img hight="300" width="500" alt="GIF" align="right" src="https://github.com/YCUU-NIE/YCUU-NIE/assets/113151683/65b7e155-4374-44a7-a01b-ff45bf40f016.gif">
+<img height="150" width="250" alt="GIF" align="right" src="https://github.com/YCUU-NIE/YCUU-NIE/assets/113151683/65b7e155-4374-44a7-a01b-ff45bf40f016.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ycuu-nie&label=Profile%20views&color=0e75b6&style=flat" alt="ycuu-nie" /> </p>
 
